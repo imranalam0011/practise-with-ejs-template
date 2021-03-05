@@ -23,3 +23,5 @@ app.use(errorController.get404);
 app.listen(3000, () => {
   console.log("listening at 3000");
 });
+
+//lec done till 7th/6
